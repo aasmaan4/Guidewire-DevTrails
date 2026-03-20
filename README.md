@@ -67,7 +67,6 @@ We chose technologies that are fast to deploy yet industry-standard:
 3. **Validation:** * **IF** Persona = `Gold` **AND** AI Confidence = `High`: **Instant Auto-Payout.**
 * **IF** Persona = `Bronze` **OR** Data is `Conflicting`: **Flag for Human Review.**
 
-
 4. **Payout:** Funds are pushed to the worker's wallet in under 60 seconds.
 
 ---
