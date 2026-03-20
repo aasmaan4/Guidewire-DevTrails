@@ -79,4 +79,4 @@ We chose technologies that are fast to deploy yet industry-standard:
 
 ---
 
-**Developed by Team Alchemists for Guidewire DevTrails Hackathon 2026
+**Developed by Team Alchemists for Guidewire DevTrails Hackathon 2026**
